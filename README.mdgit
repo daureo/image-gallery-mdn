@@ -1,0 +1,2 @@
+"# image-gallery-mdn"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:daureo/image-gallery-mdn.gitgit push -u origin main
+"# image-gallery-mdn"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:daureo/image-gallery-mdn.gitgit push -u origin main
